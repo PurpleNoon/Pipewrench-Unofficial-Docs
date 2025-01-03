@@ -3,6 +3,8 @@
 个人感觉 PipeWrench 目前还缺少一个更全面一点的文档（已有 [wiki](https://github.com/asledgehammer/PipeWrench/wiki)），
 因此我创建了这个非官方文档来补充一些信息。
 
+文档地址(WIP)：https://purplenoon.github.io/Pipewrench-Unofficial-Docs/
+
 ### 安装
 
 ```
