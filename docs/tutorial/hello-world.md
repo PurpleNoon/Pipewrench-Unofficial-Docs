@@ -26,7 +26,7 @@ function doStuff() {
 
 现在我们知道我们可以从我们的代码中 调用 Java 方法，但我们仍然不知道我们是如何实际执行我们的代码的。当 Project Zomboid 运行时，我们需要一些东西来运行我们的代码。这将通过事件来完成。您可以将事件视为 Project Zomboid 源代码的入口点。一旦 Project Zomboid 遇到来自 mod 的事件，它就会调用相关函数。
 
-```typescript
+```typescript title="src/client/example/hello.ts"
 import { everyTenMinutes } from "@asledgehammer/pipewrench-events"
 
 function sayStuff() {

@@ -71,6 +71,11 @@ const config: Config = {
           position: 'right',
         },
         {
+          href: 'https://pzwiki.net/wiki/Modding',
+          label: 'PZ wiki',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',

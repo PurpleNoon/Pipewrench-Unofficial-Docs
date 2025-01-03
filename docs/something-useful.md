@@ -4,6 +4,10 @@
 
 https://github.com/asledgehammer/PipeWrench/wiki
 
+## typescript-to-lua doc
+
+https://typescripttolua.github.io/docs/caveats
+
 ## PZ wiki
 
 https://pzwiki.net/wiki/Modding
@@ -20,7 +24,7 @@ https://projectzomboid.com/modding/
 
 https://zomboid-javadoc.com/41.78/
 
-## 僵尸毁灭工程 MOD 教程
+## 僵尸毁灭工程 MOD 中文教程
 
 https://docs.qq.com/doc/DYk16WE1aSk1iZmdl
 
